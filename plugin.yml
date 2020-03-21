@@ -1,0 +1,7 @@
+name: RedstoneX
+api: 3.0.0
+description: Experimental redstone plugin
+author: VixikCZ
+main: redstonex\RedstoneX
+load: STARTUP
+version: 0.1.2
