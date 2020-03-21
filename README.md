@@ -4,3 +4,5 @@ I Updated RedstoneX to work in newer versions. Anyone feel free to add on to it 
 Feel free to make more changes.
 
 Discord: SnipeZ#7527
+
+## I DO NOW OWN THIS PLUGIN.
